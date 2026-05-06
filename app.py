@@ -43,7 +43,7 @@ with st.sidebar:
     st.divider()
     page = st.radio("Go to", [
         "🏠 Home",
-        "📊 EDA — Person 1  ",
+        "📊 EDA — Person 1",
         "🔍 Detection — Person 2",
         "📈 Evaluation — Person 3",
         "👥 Human Annotation",
